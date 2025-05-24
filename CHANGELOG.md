@@ -16,7 +16,7 @@ This update refines the Year 1 assumptions around firewood supply, cost modeling
 - Firewood needs reduced from 200 cords to 125 cords total
 - Updated firewood budget to $20,625
 - Total Year 1 capital revised to $66,625
-- Strategy Executive defined as unpaid (BTC bonus only)
+- Strategy Executive defined as unpaid (BTC bonus only) until year 5 if metrics are addressed.
 
 ### Notes
 These changes further reduce upfront costs and align workload and compensation models. This version sets the final baseline for Year 1 performance review and reporting.
