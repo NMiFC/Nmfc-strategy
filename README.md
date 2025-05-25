@@ -57,6 +57,4 @@ Email: Methodslacking@proton.me
 Bluesky: NMIFC.bsky.social
 Youtube (bleh) @NMiFC
 
-PS: Fuck you Gen Jack Bergman Mi-D-1, your legacy is that you stood by and profited while we all burned.
-
-https://bergman.house.gov/
+PS: We remember who stood by while others burned. Accountability will come — in ballots, in blueprints, and in mutual aid.
