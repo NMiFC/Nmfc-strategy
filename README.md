@@ -98,7 +98,7 @@ Northern Michigan Firewood Company is more than a business—it’s a values-dri
 1. Clone the repository  
    `git clone https://github.com/YOUR_HANDLE/nmfc.git`
 
-2. Read the [`FINAL_NOTE.md`](./FINAL_NOTE.md) for project vision and participation terms.
+2. Read the [`FINAL_NOTE.md`](./Final_Note.md) for project vision and participation terms.
 
 3. Review the `/docs` folder for:
    - Governance documents
@@ -119,4 +119,4 @@ Northern Michigan Firewood Company is more than a business—it’s a values-dri
 
 This project is not a business in the traditional sense. It is a declaration of sovereignty, dignity, and resistance to commodified community. The weight of this work cannot be carried by one person—and it was never meant to be.
 
-**[Read the full Final Note →](./FINAL_NOTE.md)**
+**[Read the full Final Note →](./Final_Note.md)**
