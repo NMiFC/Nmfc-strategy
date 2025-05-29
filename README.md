@@ -120,3 +120,93 @@ Northern Michigan Firewood Company is more than a business—it’s a values-dri
 This project is not a business in the traditional sense. It is a declaration of sovereignty, dignity, and resistance to commodified community. The weight of this work cannot be carried by one person—and it was never meant to be.
 
 **[Read the full Final Note →](./Final_Note.md)**
+
+# 🌲 Northern Michigan Firewood Company: Why We Removed All Social Media (Except YouTube)
+
+> Northern Michigan Firewood Company is building something real — not just scalable.  
+> This repo explains why we’ve chosen to leave all social media platforms *except* YouTube.
+
+---
+
+## ✋ Our Commitment
+
+We believe in:
+- Sovereignty over surveillance,
+- Depth over virality,
+- Community over clout.
+
+Social media platforms — especially those driven by advertising, algorithmic manipulation, and extractive attention cycles — do not serve our mission or our values. We've chosen a deliberate path: **no Facebook, no Instagram, no TikTok, no X, no LinkedIn.**
+
+---
+
+## ✅ Why We Kept YouTube
+
+We kept **YouTube** for one reason:
+
+> 🎥 **It allows us to tell stories that matter.**
+
+YouTube is not perfect, but it gives us the ability to:
+- Show our work, not just promote it
+- Educate others about the kiosk model and cultural values behind it
+- Archive our philosophy, projects, murals, and impact
+- Build a public record, not just a feed
+
+It is *long-form*, *searchable*, and *time-independent*.  
+No other platform offers that.
+
+---
+
+## ❌ Why We Left the Rest
+
+| Platform     | Why We Left |
+|--------------|-------------|
+| **Facebook/Instagram** | Centralized, ad-driven, high surveillance, poor community health |
+| **X (Twitter)**        | Amplifies outrage, rewards reaction over reflection |
+| **TikTok**             | Algorithmic manipulation, short-form dopamine loop |
+| **LinkedIn**           | Performative, professionalized noise |
+| **Threads**            | Meta-controlled echo chamber with little soul |
+
+We didn’t leave out of burnout.  
+We left out of **clarity**.
+
+---
+
+## 🔁 Our Replacement Strategy
+
+Instead of chasing algorithms, we focus on:
+
+- **In-person visibility**  
+  Bold murals, branded kiosks, artist collabs, workshops
+
+- **Local press & word-of-mouth**  
+  Radio, newspaper, zines, school partnerships
+
+- **Email and SMS**  
+  Permission-based, direct communication with our community
+
+- **This GitHub**  
+  Transparent, public, and open-source documentation of our movement
+
+---
+
+## 🧠 This Is Bigger Than Us
+
+This decision isn’t just about marketing.
+
+It’s about resisting the pressure to turn every mission into a brand and every conversation into content.
+
+We want to live and work **in reality** — not in the digital casino of borrowed attention.
+
+---
+
+## 📬 Stay Connected
+
+- **YouTube**: [@NMiFC](https://www.youtube.com/@NMiFC)  
+- **Email list**: Coming soon  
+- **Work journal & documentation**: Right here on GitHub
+
+---
+
+> If you're building something with integrity and you've been afraid to unplug — let this be your green light.
+
+**We believe in your quiet revolution.**
