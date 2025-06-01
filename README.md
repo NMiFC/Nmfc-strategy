@@ -47,8 +47,7 @@ We’re not calming down — we’re focusing up.
 
 ## Contact
 
-**Email:** methodslacking@proton.me  
-**Bluesky:** [nmifc.bsky.social](https://bsky.app/profile/nmifc.bsky.social)  
+**Email:** methodslacking@proton.me 
 **YouTube:** [@NMiFC](https://youtube.com/@nmifc)
 
 > *We don’t seek a fight — just the right to serve our neighbors without permission.*
