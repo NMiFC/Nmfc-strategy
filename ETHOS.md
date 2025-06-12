@@ -3,7 +3,7 @@
 Northern Michigan Firewood Company is not just a business. It's a declaration.
 
 We believe in:
-- **Sovereignty over dependency**
+- **Integrity over dependency**
 - **Mutual aid over charity**
 - **Cultural stewardship over corporate scaling**
 - **Hard work, honest pay, and antifragile living**
