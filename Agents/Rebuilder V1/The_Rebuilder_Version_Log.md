@@ -1,3 +1,0 @@
-| Version   | Date       | Change Summary                                                  | Reason for Change                                                                | Updated Sections   | Reviewed By   |
-|:----------|:-----------|:----------------------------------------------------------------|:---------------------------------------------------------------------------------|:-------------------|:--------------|
-| v1.0      | 2025-06-02 | Initial upload of The Rebuilder briefing and walkthrough guide. | Create an AI agent for theory stress-testing and rebuilding across NMFC domains. | All                | Founder       |
